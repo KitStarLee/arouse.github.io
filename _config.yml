@@ -28,8 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
   K:3D developer and passionate 3D art enthusiast. Dedicated to transforming creative visions into immersive virtual worlds, I blend code and visual design to craft engaging game experiences. Every interaction and frame reflects my pure love for 3D artistry. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kitstarlee.github.io/arouse.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/arouse.github.io" # the subpath of your site, e.g. /blog
+url: "https://kitstarlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/blog-logo.png"
 
 twitter_username: EdwinLee
