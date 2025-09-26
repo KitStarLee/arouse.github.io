@@ -1,5 +1,8 @@
 ---
-title: Welcome to my blog
+layout: single
+title:  "Unity Plugin - Vivid CarPaint EnvMap Lite"
+date:   2025-09-10 19:35:20 +0800
+categories: Unity
 ---
 
 ### **Vivid CarPaint EnvMap Lite – Professional Car Paint Shader Plugin**
